@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.tost{
+border-style:solid;
+border-width:1px;
+margin-top:20px;
+padding-bottom:50px;
+margin-left:10px;
+}
+.classic{
+  border-style:solid;
+  border-width:1px;
+  margin-top:20px;
+  margin-left:190px;
+}
+.space{
+  background-color: black;
+  color:white;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+#title{
+  padding-top:30px;
+}
+#Koriko{
+  padding-top:15px;
+}
+.line{
+  background-color: black;
+  font-size:4px;
+  margin-top:20px;
+}
+.container{
+  /* border-style:solid; */
+  
+}
